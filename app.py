@@ -7,8 +7,8 @@ def main():
     st.write("PANGGIL SAYA ADIT GA ASIK KALO TIDAK KENAL SAYA* :sunglasses:")
     st.write("SAYA SUKA MAKAN BAKSO")
     st.write("Saya pacar umayy :heartpulse:")
-
     st.image("sunrise.jpg", caption="Sunrise by the mountains")
+
     # Input angka pertama
     num1 = st.number_input("Masukkan angka pertama:", value=0.0, step=1.0)
 
