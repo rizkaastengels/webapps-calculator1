@@ -2,11 +2,11 @@ import streamlit as st
 
 def main():
     st.title("Kalkulator Sederhana Hak Milik Adit")
-    st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
+    st.write(" DIAplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
     st.write("Saya Rizky Aditya Putra Nugraha Berkuliah di Politeknik AKA Bogor")
-    st.write("NAMA SAYA ADIT GA ASIK KALO TIDAK KENAL SAYA* :sunglasses:")
+    st.write("PANGGIL SAYA ADIT GA ASIK KALO TIDAK KENAL SAYA* :sunglasses:")
     st.write("SAYA SUKA MAKAN BAKSO")
-    
+    st.write("Saya pacar umayy :heartpulse:")
     
     # Input angka pertama
     num1 = st.number_input("Masukkan angka pertama:", value=0.0, step=1.0)
